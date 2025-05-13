@@ -1,4 +1,3 @@
-<h1 style="color:#2F539B">Aiden's Page</h1>
 <div style="font-size: 20px; color:#2F539B">
 <b>What I am up to as of May 13th, 2025:</b>
 <ul>
@@ -51,6 +50,7 @@
         </ul>
     </li>
 </ul>
+<br>
 <b>Goals as of May 13th, 2025:</b>
     <ul>
         <li>Take a gap year summer 2026</li>
