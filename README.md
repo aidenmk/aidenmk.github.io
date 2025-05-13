@@ -1,2 +1,4 @@
-<h1>Hi jenna <span style="color:crimson;"> &lt;3 </span></h1>
-<b>I love my girlfriend!</b>
+<div style="text-align: center;">
+<h1><span style="color:#20B2AA;">Aiden's Page</span></h1>
+
+</div>
