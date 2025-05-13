@@ -5,7 +5,7 @@
     <li><b>Academics:</b>
         <ul style="color:#4863A0">
             <li>University of California, Davis</li>
-            <ul style="color:#4863A0">
+            <ul>
                 <li>BS in Biotechnology, Bioinformatics Option</li>
                 <li>Expected Completion in 2025</li>
             </ul>
@@ -21,7 +21,7 @@
     <li><b>Job:</b>
         <ul style="color:#4863A0">
             <li>911 EMT at American Medical Response</li>
-            <ul style="color:#4863A0">
+            <ul>
                 <li>Yolo, Sacramento, and Placer County</li>
             </ul>	
         </ul>
@@ -29,11 +29,21 @@
     <li><b>Personal:</b>
         <ul style="color:#4863A0">
             <li>Enjoying life via:
-                <ul style="color:#4863A0">
+                <ul>
                     <li>Playing drums, guitar, and bass</li>
-                    <li>Occassional skydive</li>
+                    <li>A monthly skydive</li>
                     <li>Playing video games</li>
                     <li>Hanging out with loved ones</li>
+                </ul>
+            </li>
+            <li>Trying to better my career prospects on the side by:
+                <ul>
+                    <li>Learning Linux</li>
+                    <li>Advancing python skills</li>
+                    <li>Learning R</li>
+                    <li>Researching/attempting to learn NGS/HTP processing</li>
+                    <li>Researching/attempting to learn machine learning</li>
+                    <li>Practicing basic HTML through website creation</li>
                 </ul>
             </li>
         </ul>
