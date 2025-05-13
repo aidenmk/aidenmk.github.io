@@ -1,12 +1,12 @@
 
 <h1>Aiden's Page</h1>
 <div style="font-size: 20px; color:#2F539B">
-What I am up to
+<b>What I am up to</b>
 <ul>
     <li><b>Academics:</b>
         <ul style="color:#4863A0">
             <li>University of California, Davis</li>
-            <ul style="color:#728FCE">
+            <ul style="color:#4863A0">
                 <li>BS in Biotechnology, Bioinformatics Option</li>
                 <li>Expected Completion in 2025</li>
             </ul>
@@ -22,7 +22,7 @@ What I am up to
     <li><b>Job:</b>
         <ul style="color:#4863A0">
             <li>911 EMT at American Medical Response</li>
-            <ul style="color:#728FCE">
+            <ul style="color:#4863A0">
                 <li>Yolo, Sacramento, and Placer County</li>
             </ul>	
         </ul>
@@ -30,7 +30,7 @@ What I am up to
     <li><b>Personal:</b>
         <ul style="color:#4863A0">
             <li>Enjoying life via:
-                <ul style="color:#728FCE">
+                <ul style="color:#4863A0">
                     <li>Playing drums, guitar, and bass</li>
                     <li>Occassional skydive</li>
                     <li>Playing video games</li>
