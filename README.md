@@ -5,14 +5,24 @@
         <ul>
             <li>University of California, Davis</li>
             <ul>
-                <li>BS in Biotechnology, Bioinformatics Option</li>
-                <li>Expected Completion in 2026</li>
+                <li>BS, Biotechnology, Bioinformatics Option</li>
+                <li>Minor in Statistics</li>
+                <li>Expected Completion in June 2026</li>
+            </ul>
+            <li>On the side</li>
+            <ul>
+                <li>Learn/continue to use Linux</li>
+                <li>Advance python skills</li>
+                <li>Advance R skills</li>
+                <li>Research/attempt to learn NGS/HTP processing</li>
+                <li>Research/attempt to learn machine learning</li>
+                <li>Practice basic HTML through website creation</li>
             </ul>
         </ul>
     </li>
     <li><b>Internship:</b>
         <ul>
-            <li>Working under a Ph.D. Biomedical Engineer, creating python programs to analyze large amounts of patient data at UCDavis Medical
+            <li>Currently working under a Ph.D. Biomedical Engineer, creating python programs to analyze large amounts of patient data at UCDavis Medical
             Center</li>
             <li>Created large scale waste simulations to look at various waste produced by CT scanning</li>
         </ul>
@@ -27,7 +37,7 @@
     </li>
     <li><b>Personal:</b>
         <ul>
-            <li>Enjoying life via:
+            <li>Enjoying life via
                 <ul>
                     <li>Playing drums, guitar, and bass</li>
                     <li>A monthly skydive</li>
@@ -35,16 +45,6 @@
                     <li>Hanging out with loved ones</li>
                     <li>Looking at the positives instead of the negatives</li>
                     <li>Treating people with kindness no matter what</li>
-                </ul>
-            </li>
-            <li>Trying to better my career prospects on the side by:
-                <ul>
-                    <li>Learning Linux</li>
-                    <li>Advancing python skills</li>
-                    <li>Learning R</li>
-                    <li>Researching/attempting to learn NGS/HTP processing</li>
-                    <li>Researching/attempting to learn machine learning</li>
-                    <li>Practicing basic HTML through website creation</li>
                 </ul>
             </li>
         </ul>
