@@ -1,5 +1,4 @@
-
-<h1>Aiden's Page</h1>
+<h1 style="color:#2F539B">Aiden's Page</h1>
 <div style="font-size: 20px; color:#2F539B">
 <b>What I am up to</b>
 <ul>
