@@ -53,7 +53,7 @@
 <br>
 <b>Goals as of May 13th, 2025:</b>
     <ul>
-        <li>Take a gap year summer 2026</li>
+        <li>Take a gap year summer 2026 to work in bioinformatics related field</li>
         <li>Further my learning of bioinformatics related material</li>
         <li>Enter bioinformatics Ph.D. program in Fall 2027</li>
         <li>Live a life of daily purpose that involves doing the right thing</li>
