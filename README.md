@@ -34,6 +34,8 @@
                     <li>A monthly skydive</li>
                     <li>Playing video games</li>
                     <li>Hanging out with loved ones</li>
+                    <li>Looking at the positives instead of the negatives</li>
+                    <li>Treating people with kindness no matter what</li>
                 </ul>
             </li>
             <li>Trying to better my career prospects on the side by:
