@@ -13,7 +13,7 @@
     </li>
     <li><b>Internship:</b>
         <ul style="color:#4863A0">
-            <li>Working under Dr. Andrew Hernandez, creating python programs to analyze large amounts of patient data at UCDavis Medical
+            <li>Working under a Ph.D. Biomedical Engineer, creating python programs to analyze large amounts of patient data at UCDavis Medical
             Center</li>
             <li>Created large scale waste simulations to look at various waste associated with CT scanning</li>
         </ul>
